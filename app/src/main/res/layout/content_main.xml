@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="My Nanodegree App"
+        android:text="@string/headertext"
         android:layout_centerHorizontal="true"
         android:typeface="monospace"
         android:textSize="25sp"
@@ -24,7 +24,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Spotify Streamer"
+        android:text="@string/button1text"
         android:id="@+id/SpotifyStreamer"
         android:layout_marginTop="70dp"
         android:layout_below="@+id/title_of_app"
@@ -38,7 +38,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Scores App"
+        android:text="@string/button2text"
         android:id="@+id/Scores"
         android:clickable="true"
         android:onClick="sendMessage2"
@@ -52,7 +52,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Library App"
+        android:text="@string/button3text"
         android:id="@+id/Liberty"
         android:layout_below="@+id/Scores"
         android:layout_centerHorizontal="true"
@@ -65,7 +65,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build It Bigger"
+        android:text="@string/button4text"
         android:id="@+id/BuildItBigger"
         android:layout_below="@+id/Liberty"
         android:layout_centerHorizontal="true"
@@ -78,7 +78,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="XYZ Reader"
+        android:text="@string/button5text"
         android:id="@+id/XYZ_Reader"
         android:layout_below="@+id/BuildItBigger"
         android:layout_centerHorizontal="true"
@@ -91,7 +91,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Capstone"
+        android:text="@string/button6text"
         android:id="@+id/Capstone"
         android:layout_below="@+id/XYZ_Reader"
         android:layout_centerHorizontal="true"
