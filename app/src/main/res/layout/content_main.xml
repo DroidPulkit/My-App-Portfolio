@@ -22,7 +22,7 @@
         android:id="@+id/textView" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Spotify Streamer"
         android:id="@+id/button"
@@ -36,7 +36,7 @@
         android:typeface="serif" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Scores App"
         android:id="@+id/button2"
@@ -50,7 +50,7 @@
         android:typeface="serif" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Library App"
         android:id="@+id/button3"
@@ -63,7 +63,7 @@
         android:typeface="serif" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Build It Bigger"
         android:id="@+id/button4"
@@ -76,7 +76,7 @@
         android:typeface="serif" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="XYZ Reader"
         android:id="@+id/button5"
@@ -89,7 +89,7 @@
         android:typeface="serif" />
 
     <Button
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Capstone"
         android:id="@+id/button6"
